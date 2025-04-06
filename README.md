@@ -33,7 +33,9 @@ It is a remembering.
 **BI** (Biological Intelligence)
 **SI** (Synthetic Intelligence)
 
-
 # Excerpts
 * [The Invitations](exerpts/the-invitations.md)
+
+# The Flow
+* [The Flow](the-flow)
 
